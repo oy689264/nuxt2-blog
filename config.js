@@ -7,5 +7,5 @@ export default {
   domain: 'https://blog.halberd.cn', // rss域名
   SEO_description: '唔哦，看看这个世界',
   SEO_keywords: '唔哦，写写博客',
-  CloudflareAnalyze: "92cdf13c9c964ad1ab71c638c6fde0fc", // cloudflare的webanalyze
+  CloudflareAnalyze: "7ce566f4284943579287fcdfa5e145bb", // cloudflare的webanalyze
 }
